@@ -10,6 +10,15 @@
       "target": "https://egofathomin.com/wedding/junyoung-yujin/",
       "image": "https://wedding.egofathomin.com/junyoung-yujin/cover-v2.jpg",
       "icon": "heart"
+    },
+    {
+      "slug": "egoin-wedding",
+      "status": "published",
+      "title": "Egoin Wedding | 나다운 모바일 청첩장",
+      "description": "다섯 가지 웨딩 컬렉션, 두 사람만의 초대를 만나보세요.",
+      "target": "https://egofathomin.com/egoin-wedding/#collection",
+      "image": "https://wedding.egofathomin.com/egoin-wedding/cover.jpg",
+      "icon": "heart"
     }
   ]
 }
