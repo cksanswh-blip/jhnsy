@@ -1,0 +1,58 @@
+{
+  "ivory": {
+    "paper": "#f5f1e9",
+    "panel": "#ebe5d9",
+    "ink": "#423d35",
+    "accent": "#8a6b4f",
+    "line": "#d8cdbc",
+    "soft": "#716a60"
+  },
+  "rose": {
+    "paper": "#fbf2f1",
+    "panel": "#f0dedc",
+    "ink": "#623d44",
+    "accent": "#914759",
+    "line": "#dfc4c8",
+    "soft": "#795d64"
+  },
+  "sage": {
+    "paper": "#f3f4ec",
+    "panel": "#e3e8da",
+    "ink": "#394739",
+    "accent": "#607054",
+    "line": "#c7cfb8",
+    "soft": "#64735f"
+  },
+  "sky": {
+    "paper": "#f1f5f8",
+    "panel": "#e1eaf0",
+    "ink": "#344a5c",
+    "accent": "#587990",
+    "line": "#bdcfda",
+    "soft": "#657988"
+  },
+  "lilac": {
+    "paper": "#f5f1f8",
+    "panel": "#e9e0ef",
+    "ink": "#504258",
+    "accent": "#80638e",
+    "line": "#d4c5df",
+    "soft": "#77687e"
+  },
+  "peach": {
+    "paper": "#fff5ec",
+    "panel": "#f5e2d2",
+    "ink": "#624637",
+    "accent": "#925b40",
+    "line": "#dfc5af",
+    "soft": "#795d4c"
+  },
+  "mono": {
+    "paper": "#fffefb",
+    "panel": "#f2f0ec",
+    "ink": "#262626",
+    "accent": "#555552",
+    "line": "#c5c5c0",
+    "soft": "#686863"
+  }
+}
