@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "invitations": [
+    {
+      "slug": "junyoung-yujin",
+      "status": "published",
+      "expiresAt": "2026-11-21T00:00:00+09:00",
+      "title": "준영 · 유진의 결혼식",
+      "description": "2026년 11월 14일 토요일 낮 12시 · 도림교회 글로리아 성전",
+      "target": "https://egofathomin.com/wedding/junyoung-yujin/",
+      "image": "https://egofathomin.com/wedding/junyoung-yujin/cover/"
+    }
+  ]
+}
